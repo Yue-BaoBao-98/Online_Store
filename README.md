@@ -22,3 +22,11 @@ This project was built with the following objectives:
 ## 🔗 Live Demo
 
 Experience the online store: [Online Store](https://yue-baobao-98.github.io/Online_Store/)
+
+## 📫 Contact
+
+Feel free to reach me at:
+
+-   Email: [Mail](nguyenhuagiabao.98@gmail.com)
+
+-   LinkedIn: [Profile](https://www.linkedin.com/in/bao-nguyen-nhgb98)
